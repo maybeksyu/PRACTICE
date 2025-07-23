@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  max-width: 800px;
+  padding: 30px;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+.dog-container {
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 2px 4px green;
+}
+
+.dog-image {
+  max-width: 100%;
+  max-height: 500px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px black (0, 0, 0, 0.2);
+}
+
+.new-dog-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
